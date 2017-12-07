@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trainegram", "Trainegram\Trainegram.csproj", "{02FD3D0B-1545-40B2-BD32-CF21B84894DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymous Vox", "Anonymous Vox\Anonymous Vox.csproj", "{27D37AD2-5682-4617-B977-7407F88CE68B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hornet Comm", "Hornet Comm.\Hornet Comm.csproj", "{0CD5A0E6-FBA8-4B15-8169-C41F37392834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02FD3D0B-1545-40B2-BD32-CF21B84894DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FD3D0B-1545-40B2-BD32-CF21B84894DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02FD3D0B-1545-40B2-BD32-CF21B84894DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02FD3D0B-1545-40B2-BD32-CF21B84894DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27D37AD2-5682-4617-B977-7407F88CE68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D37AD2-5682-4617-B977-7407F88CE68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D37AD2-5682-4617-B977-7407F88CE68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D37AD2-5682-4617-B977-7407F88CE68B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CD5A0E6-FBA8-4B15-8169-C41F37392834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD5A0E6-FBA8-4B15-8169-C41F37392834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD5A0E6-FBA8-4B15-8169-C41F37392834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD5A0E6-FBA8-4B15-8169-C41F37392834}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
