@@ -1,0 +1,6 @@
+C:\Users\bgsto\Desktop\Regexmon\Regexmon\bin\Debug\Regexmon.exe.config
+C:\Users\bgsto\Desktop\Regexmon\Regexmon\bin\Debug\Regexmon.exe
+C:\Users\bgsto\Desktop\Regexmon\Regexmon\bin\Debug\Regexmon.pdb
+C:\Users\bgsto\Desktop\Regexmon\Regexmon\obj\Debug\Regexmon.csprojResolveAssemblyReference.cache
+C:\Users\bgsto\Desktop\Regexmon\Regexmon\obj\Debug\Regexmon.exe
+C:\Users\bgsto\Desktop\Regexmon\Regexmon\obj\Debug\Regexmon.pdb
